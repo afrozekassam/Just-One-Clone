@@ -128,9 +128,3 @@ player: ForeignKey to Player
 
 correct: Boolean if it was correct or not
 
-Would you like to:
-
-Start building the Game and Player models?
-
-Or talk through relationships between these entities first?
-
