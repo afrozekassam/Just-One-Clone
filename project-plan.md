@@ -1,8 +1,5 @@
 # project-plan
 
-Sure! Let's break it down clearly:
-
-What does a typical Django app need?
 
 Each Django app usually consists of these core parts:
 
